@@ -14,7 +14,7 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: https://registry.npmjs.org/@material-ui/core/-/core-4.12.2.tgz: ESOCKETTIMEDOUT
+  Error: https://registry.npmjs.org/rxjs/-/rxjs-6.6.7.tgz: ESOCKETTIMEDOUT
       at ClientRequest.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141376:19)
       at Object.onceWrapper (events.js:481:28)
       at ClientRequest.emit (events.js:375:28)
